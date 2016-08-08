@@ -1,0 +1,14 @@
+bin\Debug\Fantail.SyslogServer.exe
+bin\Debug\Fantail.SyslogServer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Fantail.SyslogServer.ProjectInstaller.resources
+obj\Debug\Fantail.SyslogServer.csproj.GenerateResource.Cache
+obj\Debug\Fantail.SyslogServer.exe
+obj\Debug\Fantail.SyslogServer.pdb
+bin\Release\Fantail.SyslogServer.exe
+bin\Release\Fantail.SyslogServer.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Fantail.SyslogServer.ProjectInstaller.resources
+obj\Release\Fantail.SyslogServer.csproj.GenerateResource.Cache
+obj\Release\Fantail.SyslogServer.exe
+obj\Release\Fantail.SyslogServer.pdb
